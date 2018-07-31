@@ -2,4 +2,4 @@
 Hello World
 Testando mudanças para realizar um commit.
 
-branch 2
+branch 1.0
